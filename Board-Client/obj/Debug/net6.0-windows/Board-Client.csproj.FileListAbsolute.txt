@@ -1,0 +1,17 @@
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\bin\Debug\net6.0-windows\Board-Client.exe
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\bin\Debug\net6.0-windows\Board-Client.deps.json
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\bin\Debug\net6.0-windows\Board-Client.runtimeconfig.json
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\bin\Debug\net6.0-windows\Board-Client.dll
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\bin\Debug\net6.0-windows\Board-Client.pdb
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\Board-Client.csproj.AssemblyReference.cache
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\Board_Client.Form1.resources
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\Board-Client.csproj.GenerateResource.cache
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\Board-Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\Board-Client.AssemblyInfoInputs.cache
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\Board-Client.AssemblyInfo.cs
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\Board-Client.csproj.CoreCompileInputs.cache
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\Board-Client.dll
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\refint\Board-Client.dll
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\Board-Client.pdb
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\Board-Client.genruntimeconfig.cache
+C:\Users\Reisi\Desktop\Board-Client\Board-Client\obj\Debug\net6.0-windows\ref\Board-Client.dll
