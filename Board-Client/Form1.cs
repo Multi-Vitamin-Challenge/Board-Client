@@ -1,10 +1,7 @@
 using System.Threading;
 using System.Net;
-using System.Collections.Specialized;
 using Newtonsoft.Json;
 using System.ComponentModel;
-using System.Diagnostics;
-
 namespace Board_Client
 {
     public partial class Form1 : Form
