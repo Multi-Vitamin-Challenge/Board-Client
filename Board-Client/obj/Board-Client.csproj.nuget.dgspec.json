@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Reisi\\Desktop\\Board-Client\\Board-Client\\Board-Client.csproj": {}
+    "C:\\Users\\Reisi\\Desktop\\New folder (2)\\Board-Client\\Board-Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Reisi\\Desktop\\Board-Client\\Board-Client\\Board-Client.csproj": {
+    "C:\\Users\\Reisi\\Desktop\\New folder (2)\\Board-Client\\Board-Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Reisi\\Desktop\\Board-Client\\Board-Client\\Board-Client.csproj",
+        "projectUniqueName": "C:\\Users\\Reisi\\Desktop\\New folder (2)\\Board-Client\\Board-Client.csproj",
         "projectName": "Board-Client",
-        "projectPath": "C:\\Users\\Reisi\\Desktop\\Board-Client\\Board-Client\\Board-Client.csproj",
+        "projectPath": "C:\\Users\\Reisi\\Desktop\\New folder (2)\\Board-Client\\Board-Client.csproj",
         "packagesPath": "C:\\Users\\Reisi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Reisi\\Desktop\\Board-Client\\Board-Client\\obj\\",
+        "outputPath": "C:\\Users\\Reisi\\Desktop\\New folder (2)\\Board-Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Reisi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
